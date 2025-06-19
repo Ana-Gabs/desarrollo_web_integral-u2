@@ -2,7 +2,7 @@
   "name": "desarrollo_web_integral-u2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ana-Gabs.github.io/desarrollo_web_integral-u2",
+  "homepage": "https://ana-gabs.github.io/desarrollo_web_integral-u2",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
